@@ -1,0 +1,22 @@
+.user-todo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* App.css or UserTodo.css */
+.read-mode {
+  /* Define styles for read mode */
+  background-color: #f0f0f0; /* Example background color for read mode */
+}
+
+.edit-mode {
+  /* Define styles for edit mode */
+  background-color: #fff; /* Example background color for edit mode */
+}
+
+
